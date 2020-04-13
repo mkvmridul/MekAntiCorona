@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1024117806581",
+    "firebase_url": "https://fir-messaging-7ed69.firebaseio.com",
+    "project_id": "fir-messaging-7ed69",
+    "storage_bucket": "fir-messaging-7ed69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024117806581:android:6a030d120f0f2c8e50fcbc",
+        "android_client_info": {
+          "package_name": "com.mani.mekvahanpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024117806581-htmk35oldt65mepk3a3sk50gevo43182.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTx1QMn4oPElewCcGVGvyQ73iIvYZBjC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024117806581-htmk35oldt65mepk3a3sk50gevo43182.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024117806581:android:9badb1736431d1df50fcbc",
+        "android_client_info": {
+          "package_name": "com.myapp.mekvahan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024117806581-htmk35oldt65mepk3a3sk50gevo43182.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTx1QMn4oPElewCcGVGvyQ73iIvYZBjC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024117806581-htmk35oldt65mepk3a3sk50gevo43182.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024117806581:android:d4174107ea4d7cbd50fcbc",
+        "android_client_info": {
+          "package_name": "com.naruto.mekvahandelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024117806581-htmk35oldt65mepk3a3sk50gevo43182.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTx1QMn4oPElewCcGVGvyQ73iIvYZBjC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024117806581-htmk35oldt65mepk3a3sk50gevo43182.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
